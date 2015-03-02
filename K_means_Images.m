@@ -1,5 +1,5 @@
 %% Umair Aftab 
-%% behance.net/uaaftab
+%% behance.net/uaftab
 %% github.com/uaftab
 %% 09/11/12
 %% K-Mean Clustering for Images 

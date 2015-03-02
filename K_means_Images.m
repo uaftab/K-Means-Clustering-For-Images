@@ -1,9 +1,9 @@
 %% Umair Aftab 
-%% behance.net/ua
-%% github.com/umair-a
+%% behance.net/uaaftab
+%% github.com/uaftab
 %% 09/11/12
 %% K-Mean Clustering for Images 
-
+%% MATLAB
 
 clear all 
 close all
